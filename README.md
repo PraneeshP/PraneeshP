@@ -1,16 +1,54 @@
-I’m Praneesh. I’m currently learning more about web development and still improving my foundations with JavaScript, React, and backend logic. I prefer building small, functional projects rather than perfect ones, and I’m slowly developing habits around documentation and cleaner code structure.
+# Hi, I'm Praneesh P  
+
+I am currently learning web development and strengthening my fundamentals in JavaScript, React, backend logic, and database handling. I like building small, working projects that help me understand real workflows rather than just theoretical knowledge.
 
 ---
 
-### What I’m working on
-I’m drafting a few minimal full-stack attempts using Node.js and MySQL, mainly to understand routing, user sessions, and data handling. I’m also refining my frontend structure so that I can shift from static layouts to more interactive pages. I’ve been reviewing common mistakes I make—such as mixing logic and UI, unclear variable naming, and skipping comments—to correct them deliberately instead of rushing ahead.
+## About Me  
+- Web Development Learner  
+- Still improving backend concepts  
+- Practicing MySQL for data handling  
+- Exploring full-stack basics  
 
 ---
 
-### Skills (compact)
-Programming languages: HTML, CSS, JavaScript, React JS, Python, Backend: Node.js, Database: MySQL
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneeshP&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneeshP&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=praneeshP&theme=tokyonight)
 
 ---
 
-### Contribution History (minimal visual)
+## GitHub Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=praneeshP&theme=tokyo-night)
+
+---
+
+## LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/P_Praneesh?theme=dark)
+
+Profile: https://leetcode.com/u/P_Praneesh/
+
+---
+
+## Skills  
+- HTML  
+- CSS  
+- JavaScript  
+- React JS  
+- Python  
+- Node.js  
+- MySQL  
+
+---
+
+## Contact  
+
+📌 GitHub: https://github.com/praneeshP  
+📌 Email: praneeshpalanisamy@gmail.com  
 
