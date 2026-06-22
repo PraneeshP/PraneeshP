@@ -1,64 +1,77 @@
-<h1 align="center">Hi 👋, I'm Praneesh</h1>
-<h3 align="center">AI Developer | Full Stack Developer | Final Year CSE Student</h3>
+<div align="center">
+
+#  Hey, I'm Praneesh
+
+### 🚀 AI Developer | Full Stack Developer | Final Year CSE Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=600&lines=Artificial+Intelligence;Full+Stack+Development;Machine+Learning;Building+Innovative+Projects" />
+
+</div>
+
+---
+
+## 💫 About Me
+
+🎓 Final Year Computer Science Engineering Student
+
+🌐 Full Stack Developer
+
+💡 Startup Enthusiast
+
+🔥 Currently working on AI-based Projects
+
+---
+
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Learner" />
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mysql,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Current Projects
 
-- 🎓 Final Year Computer Science Student
-- 🤖 Interested in AI, Agentic AI and Machine Learning
-- 🌱 Currently learning MERN Stack & Generative AI
-- 💡 Building innovative startup projects
-- 📫 Reach me: your-email@example.com
+### 🤖 AI Resume Screening and Analysis System
+Analysis Resume with Job Descrption 
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+### 📋 Advanced Task Manager
+Full-stack productivity application.
 
 ---
 
-## 📌 Featured Projects
+## 📈 GitHub Analytics
 
-### 🤖 AI Interview Assistant
-AI-powered interview preparation platform.
-
-### ♻️ Reusable Tyre Startup
-Sustainable tyre recycling and reuse ecosystem.
-
-### 📋 Smart To-Do Application
-Task management with authentication and priorities.
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+- 🎯 AI & ML Projects
+- 💻 Full Stack Applications
+- 🚀 Startup Innovation Enthusiast
+- 📚 Continuous Learner
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+</div>
