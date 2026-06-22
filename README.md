@@ -1,77 +1,66 @@
-<div align="center">
-
-#  Hey, I'm Praneesh
-
-### 🚀 AI Developer | Full Stack Developer | Final Year CSE Student
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=600&lines=Artificial+Intelligence;Full+Stack+Development;Machine+Learning;Building+Innovative+Projects" />
-
-</div>
+<h1 align="center">Hi 👋, I'm Praneesh</h1>
+<h3 align="center">AI Developer | Full Stack Developer | Final Year CSE Student</h3>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-🎓 Final Year Computer Science Engineering Student
-
-🌐 Full Stack Developer
-
-💡 Startup Enthusiast
-
-🔥 Currently working on AI-based Projects
+- 🎓 Final Year Computer Science Student
+- 🌱 Currently learning Generative AI & Full Stack Development
+- 🚀 Building innovative projects and startup ideas
+- 💬 Ask me about Java, Python, AI, Web Development
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠️ Tech Stack
 
-<p align="center">
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mysql,git,github,vscode"/>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-</p>
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-## 🚀 Current Projects
-
-### 🤖 AI Resume Screening and Analysis System
-Analysis Resume with Job Descrption 
-
-### 📋 Advanced Task Manager
-Full-stack productivity application.
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Projects
 
-- 🎯 AI & ML Projects
-- 💻 Full Stack Applications
-- 🚀 Startup Innovation Enthusiast
-- 📚 Continuous Learner
+### 🤖 AI Interview Assistant
+AI-powered interview preparation platform with resume analysis.
 
----
+### ♻️ Reusable Tyre Management System
+A startup solution for tyre recycling and sustainable reuse.
 
-## 🌍 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
+### 📋 Smart To-Do Application
+Task management system with authentication and priority tracking.
 
 ---
 
-<div align="center">
+## 📊 GitHub Statistics
 
-### ⭐ "Code. Learn. Build. Repeat."
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: yourmail@gmail.com
+
+---
+
+⭐ Always learning, building, and improving.
