@@ -10,7 +10,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Final Year Computer Science Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🌱 Currently learning Generative AI and Full Stack Development
 - 🚀 Building innovative projects and startup ideas
 - 💬 Ask me about Java, Python, AI, Web Development
@@ -46,11 +45,8 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Interview Assistant
-AI-powered interview preparation platform with resume analysis and mock interviews.
-
-### ♻️ Reusable Tyre Management System
-A startup solution focused on tyre recycling and sustainable reuse.
+### 🤖 AI REsume screening System 
+ Analysis Resume And match With Job Descrption
 
 ### 📋 Smart To-Do Application
 Task management system with authentication, priorities, and search functionality.
@@ -84,8 +80,8 @@ Task management system with authentication, priorities, and search functionality
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/praneesh-p-2a86352a5/
+- Email: praneeshpalanisamy@gmail.com
 
 ---
 
