@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Praneesh</h1>
 <h3 align="center">AI Developer | Full Stack Developer | Final Year CSE Student</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+Developer;Full+Stack+Developer;Final+Year+CSE+Student;Building+Innovative+Projects" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Final Year Computer Science Student
-- 🤖 Passionate about Artificial Intelligence
-- 🌱 Currently learning Generative AI & Full Stack Development
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🌱 Currently learning Generative AI and Full Stack Development
 - 🚀 Building innovative projects and startup ideas
 - 💬 Ask me about Java, Python, AI, Web Development
 
@@ -25,9 +29,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Backend & Database
+### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -39,21 +47,38 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI Interview Assistant
-AI-powered interview preparation platform with resume analysis.
+AI-powered interview preparation platform with resume analysis and mock interviews.
 
 ### ♻️ Reusable Tyre Management System
-A startup solution for tyre recycling and sustainable reuse.
+A startup solution focused on tyre recycling and sustainable reuse.
 
 ### 📋 Smart To-Do Application
-Task management system with authentication and priority tracking.
+Task management system with authentication, priorities, and search functionality.
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraneeshP&show_icons=true&theme=default" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraneeshP&layout=compact" height="170">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PraneeshP&theme=flat&margin-w=15" />
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PraneeshP&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -64,4 +89,8 @@ Task management system with authentication and priority tracking.
 
 ---
 
-⭐ Always learning, building, and improving.
+<div align="center">
+
+### ⭐ Always Learning • Always Building • Always Improving ⭐
+
+</div>
